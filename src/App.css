@@ -1,0 +1,30 @@
+.robocard{
+  background-color: rgb(250, 199, 224);
+  color :midnightblue;
+  margin: 2rem;
+  display: inline-block;
+  place-items: center;
+  box-shadow: 1px 1px 5px black;
+  border-width: 30px;
+  border-radius: 20%;
+  padding: 20px;
+  
+}
+  .sbox{
+  margin: 5rem;
+  width: 205px;
+  padding: 2px ;
+  box-sizing: border-box;
+  margin-left: 600px;
+  background: brown;
+  border-radius: 2px;
+  margin-top: 10px;
+}
+
+h1{
+  text-align: center;
+  background-color: grey ;
+  border: solid black;
+  border-radius: 12px;
+  padding: 5px;
+}
